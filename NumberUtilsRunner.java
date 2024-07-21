@@ -1,5 +1,3 @@
-package introductionOOPS;
-
 public class NumberUtilsRunner {
 
 	public static void main(String[] args) {

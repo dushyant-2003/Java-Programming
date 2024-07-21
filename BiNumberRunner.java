@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class BiNumberRunner {
 	public static void main(String[] args)

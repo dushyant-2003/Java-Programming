@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class LeapYearChecker {
     public boolean isLeapYear(int year) {

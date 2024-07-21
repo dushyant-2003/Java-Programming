@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class FactorialCalculatorRunner {
 

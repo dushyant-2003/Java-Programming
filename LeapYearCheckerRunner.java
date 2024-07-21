@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class LeapYearCheckerRunner {
 	public static void main(String[] args)
