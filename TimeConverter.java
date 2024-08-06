@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class TimeConverter {
 	 public static int convertHoursToMinutes(int hours) {

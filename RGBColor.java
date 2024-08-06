@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 //RGBColor class representing a color using Red Green Blue (RGB) model.
 public class RGBColor {

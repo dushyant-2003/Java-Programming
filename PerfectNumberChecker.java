@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class PerfectNumberChecker {
 public boolean isPerfectNumber(int number) {

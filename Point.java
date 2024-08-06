@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 //Defining a Point class to represent a point in 2-dimensional space
 public class Point {

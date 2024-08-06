@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class SumOfSquares {
 	public long calculateSumOfSquares(int n) {

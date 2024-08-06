@@ -1,4 +1,4 @@
-package introductionOOPS;
+
 import java.math.BigDecimal;
 public class simpleInterestCalculatorRunner {
 	public static void main(String[] args)

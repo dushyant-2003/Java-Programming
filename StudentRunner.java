@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class StudentRunner {
 	public static void main(String[] args)

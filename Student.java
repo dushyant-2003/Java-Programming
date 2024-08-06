@@ -1,4 +1,3 @@
-package introductionOOPS;
 
 public class Student {
     private int marks;

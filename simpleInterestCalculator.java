@@ -1,4 +1,3 @@
-package introductionOOPS;
 import java.math.BigDecimal;
 public class simpleInterestCalculator {
 	BigDecimal amount,principle,rate;
